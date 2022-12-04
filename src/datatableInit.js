@@ -14,9 +14,9 @@ $.DataTable = require('datatables.net-bs5');
 
 //
 export const generalDatatableConfig = (data,table_id,tableColumns,otherTableConfig) => {
-    let isLandScape = true
-    let exportOptionsIndex = [0, 1]
-    let exportTitle = ''
+    let isLandScape = otherTableConfig.isLandScape ?? false
+    let exportOptionsIndex = otherTableConfig.exportOptionsIndex ?? []
+    let exportTitle = otherTableConfig.exportTitle ?? ''
     let fromDate = ''
     let toDate = ''
     let total = 0

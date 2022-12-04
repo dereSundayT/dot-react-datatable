@@ -1,7 +1,7 @@
 {
   "name": "dot-react-datatable",
   "version": "0.0.1",
-  "description": "a easy to use datable react way to use datatable in your react project",
+  "description": "an easy to use react datable library",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "scripts": {

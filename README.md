@@ -3,13 +3,10 @@
 [![Documentation](https://img.shields.io/badge/documentation-yes-brightgreen.svg)](https://github.com/dereSundayT/dot-react-datatable#readme)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/dereSundayT/dot-react-datatable/graphs/commit-activity)
 [![License: MIT](https://img.shields.io/github/license/dereSundayT/dot-react-datatable)](https://github.com/dereSundayT/dot-react-datatable/blob/master/LICENSE)
-[![Twitter: &#34;&#34;](https://img.shields.io/twitter/follow/&#34;&#34;.svg?style=social)](https://twitter.com/&#34;&#34;)
 
-> a easy to use datable react way to use datatable in your react project
+> an easy to use react datable library
 
 ### 🏠 [Homepage](https://github.com/dereSundayT/dot-react-datatable#readme)
-
-### ✨ [Demo](&#34;&#34;)
 
 ## Install
 
@@ -20,7 +17,7 @@ npm install
 ## Usage
 
 ```sh
-&#34;&#34;
+import component name and pass in required props to the component 
 ```
 
 ## Run tests
@@ -33,10 +30,8 @@ npm run test
 
 👤 **Sunday Dere Toluwani**
 
-* Website: &#34;&#34;
-* Twitter: [@&#34;&#34;](https://twitter.com/&#34;&#34;)
 * Github: [@dereSundayT](https://github.com/dereSundayT)
-* LinkedIn: [@&#34;&#34;](https://linkedin.com/in/&#34;&#34;)
+* LinkedIn: [@dere-sunday-toluwani](https://linkedin.com/in/dere-sunday-toluwani)
 
 ## 🤝 Contributing
 
@@ -47,8 +42,6 @@ Feel free to check [issues page](https://github.com/dereSundayT/dot-react-datata
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-
-[![support us](https://img.shields.io/badge/become-a patreon%20us-orange.svg?cacheSeconds=2592000)](https://www.patreon.com/&#34;&#34;)
 
 
 ## 📝 License
