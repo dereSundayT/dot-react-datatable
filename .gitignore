@@ -1,0 +1,5 @@
+.storybook
+.dist
+node_modules
+src/dev.md
+
